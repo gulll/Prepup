@@ -88,7 +88,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql', 
         'NAME': 'PrepUp',
         'USER': 'root',
-        'PASSWORD': 'gkmishra@94',
+        'PASSWORD': 'gkmishra',
         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
